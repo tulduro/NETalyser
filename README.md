@@ -1,6 +1,6 @@
 # NETalyser
 
-These scripts are used by Thilley et al. (Ref) to analyse and quantify NET formation in samples microscopic samples.
+These scripts are used by Tilley et al. (Ref) to analyse and quantify NET formation in samples microscopic samples.
 
 ## ImageJ scripts:
 These scripts were developed using ImageJ Macro language in Fiji running ImageJ 2.00-rc-59/1.51n.
