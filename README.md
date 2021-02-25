@@ -3,7 +3,6 @@
 These scripts are used by Thilly et al. (Ref) to analyse and quantify NET formation in samples microscopic samples.
 
 ImageJ scripts:
-
 These scripts were developed using ImageJ Macro language in Fiji running ImageJ 2.00-rc-59/1.51n.
 
 The scripts generate a result file that can be analysed by the NETalyser_R script in R.
